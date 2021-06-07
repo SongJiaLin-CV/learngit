@@ -1,1 +1,2 @@
 I will test the git in this file.
+Now I will add a sentence.
